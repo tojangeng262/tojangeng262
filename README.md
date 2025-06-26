@@ -6,6 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i was aquaculture student, im not boring with fish, just want to make a cyborg one
 
+[link to my portofolio](https://github.com/tojangeng262/portofolio_nasrudyFM)
+
 <!---
 tojangeng262/tojangeng262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
